@@ -1,0 +1,7 @@
+dicogis.georeaders.Infos\_QGS module
+====================================
+
+.. automodule:: dicogis.georeaders.Infos_QGS
+   :members:
+   :undoc-members:
+   :show-inheritance:

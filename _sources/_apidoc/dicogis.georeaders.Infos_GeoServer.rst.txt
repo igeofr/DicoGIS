@@ -1,0 +1,7 @@
+dicogis.georeaders.Infos\_GeoServer module
+==========================================
+
+.. automodule:: dicogis.georeaders.Infos_GeoServer
+   :members:
+   :undoc-members:
+   :show-inheritance:
