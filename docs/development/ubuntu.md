@@ -49,6 +49,10 @@ source ~/pyvenvs/dicogis/bin/activate
 ## Install project requirements
 
 ```bash
+cd DicoGIS
+```
+
+```bash
 python -m pip install -U pip setuptools wheel
 python -m pip install -U -r requirements/base.txt
 python -m pip install pygdal=="`gdal-config --version`.*"
